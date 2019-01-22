@@ -1,0 +1,12 @@
+{
+  "npmClient": "npm",
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "ignore": "component-*"
+    }
+  },
+  "version": "0.0.0"
+}
