@@ -27,7 +27,7 @@
     "@ali/topSdk": "file:packs/ali-topSdk-2.0.5.tgz",
     "egg": "^2.6.1",
     "egg-scripts": "^2.6.0",
-    "egg-swagger-doc": "file:packs/egg-swagger-doc-2.2.1.tgz",
+    "egg-swagger-doc": "file:packs/egg-swagger-doc-2.2.4.tgz",
     "egg-validate": "^2.0.2"
   },
   "devDependencies": {
